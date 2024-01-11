@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Manajemen RS</string>
+    <string name="entry_pasien">Masukan Data Pasien</string>
+    <string name="entry_rekamMedis">Masukan Data Medis</string>
+    <string name="edit_pasien">Edit Data Pasien</string>
+    <string name="edit_rekamMedis">Edit Data Rekam Medis</string>
+    <string name="detail_pasien">Detail Data Pasien</string>
+    <string name="detail_rekamMedis">Detail Data Medis</string>
+    <string name="nama_entry">Masukan Nama Pasien</string>
+    <string name="alamat_entry">Masukan Alamat Pasien</string>
+    <string name="nohp_entry">Masukan No Hp Pasien</string>
+    <string name="nama_pasien">Nama Pasien</string>
+    <string name="alamat_pasien">Alamat Pasien</string>
+    <string name="nohp_pasien">No Hp Pasien</string>
+    <string name="riwayat_pasien">Riwayat Pasien</string>
+    <string name="resep">Resep Obat Pasien</string>
 </resources>
